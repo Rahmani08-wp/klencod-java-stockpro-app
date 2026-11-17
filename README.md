@@ -1,2 +1,6 @@
-# klencod-java-stockpro-app
-Project created by KLENCOD IDE
+# إدارة المشتريات والمبيعات والمخزون
+
+تطبيق ويب ثابت (HTML/CSS/JS) بدون مكتبات خارجية، بواجهة عربية RTL.
+يعمل مباشرة بفتح `index.html`، وتُحفظ البيانات في المتصفح (localStorage).
+
+الملفات: index.html · style.css · app.js
